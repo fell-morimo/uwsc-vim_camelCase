@@ -7,6 +7,5 @@ Windows10
 
 2. filetype.vimの編集
 {vimのインストールフォルダ}\vim{バージョン番号}\filetype.vim  
-  
 追加  
 au BufNewFile,BufRead *.uws self uwsc  
